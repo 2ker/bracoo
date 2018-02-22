@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bracoo", "bracoo\bracoo.csproj", "{42BC5535-1496-422F-88DF-CC478F7890FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bracoo", "bracoo\bracoo.csproj", "{42BC5535-1496-422F-88DF-CC478F7890FA}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{ABEF74FC-0EC5-44F0-9DA4-F50DDF51F800}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{42BC5535-1496-422F-88DF-CC478F7890FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42BC5535-1496-422F-88DF-CC478F7890FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42BC5535-1496-422F-88DF-CC478F7890FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABEF74FC-0EC5-44F0-9DA4-F50DDF51F800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABEF74FC-0EC5-44F0-9DA4-F50DDF51F800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABEF74FC-0EC5-44F0-9DA4-F50DDF51F800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABEF74FC-0EC5-44F0-9DA4-F50DDF51F800}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

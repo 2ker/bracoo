@@ -5,3 +5,5 @@
 /bracoo/obj
 /bracoo/bin/Debug/netcoreapp2.0
 /.vs/bracoo/v15/Server/sqlite3
+*.suo
+/obj
